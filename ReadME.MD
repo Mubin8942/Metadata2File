@@ -1,4 +1,4 @@
-# File Organizer - Process Folders & Subfolders
+# Metadata File Organizer - Process Folders & Subfolders
 
 A professional Python application with a beautiful GUI that automatically organizes and processes files from folders and all their subfolders. The application intelligently detects file types using magic bytes (file signatures) and organizes them by category with optional metadata enhancement.
 
